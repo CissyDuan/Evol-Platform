@@ -11,6 +11,8 @@ Maintained by the Center for Digital Humanities, Peking University
 
 Evol project: a comprehensive online platform  for quantitative analysis of ancient literature
 
+https://www.nature.com/articles/s41599-024-02763-6
+
 Published in Humanities and Social Sciences Communications
 
 
