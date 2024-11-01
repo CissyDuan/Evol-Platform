@@ -4,6 +4,8 @@
 
 http://evolution.pkudh.xyz/
 
+Please copy and paste the link address. Directly clicking to open may be affected by browser settings and may not be accessible.
+
 Maintained by the Center for Digital Humanities, Peking University
 
 
