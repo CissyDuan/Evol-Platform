@@ -27,7 +27,9 @@ Due to the university's frequent power outages and server maintenance, the platf
 
 # Usage Suggestions
 
-The loading of the functional interface will be slow, but subsequent operations will be fast.
+The loading of the functional interface will be slow, but subsequent operations will be fast. To avoid repeated loading, it is recommended to use multiple browser windows for different functions.
+
+In text reuse reading, the platform will transmit the entire book at once. To avoid repeated transmission, it is advisable to open individual sentences in new windows for intertextual browsing.
 
 Avoid selecting large amounts of data, which may time out in the transfer of raw text data.
 
